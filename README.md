@@ -19,7 +19,7 @@ These files have been tested and used to generate a live ELK deployment on Azure
 
 
 i DOWNLOADED _ansible.cfg_ configuration file on this website https://ansible.com/  and edit IT
-Ansible file can also be found at (https://github.com/flyrcs/Azure-Virtual-Network-with-ELK-Deployment/blob/master/Ansible/ansible.cfg)  and this was copied to to your /etc/ansible directory
+Ansible file can also be found at (https://github.com/brikwento/Project-2-Submitted/blob/master/Ansible/ansible.cfg)  and this was copied to to your /etc/ansible directory
   - For ansible.cfg edit:  
     ```bash
     cd /etc/ansible/	
